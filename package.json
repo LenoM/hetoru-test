@@ -1,0 +1,16 @@
+{
+  "name": "heroku-test",
+  "version": "1.0.0",
+  "description": "Testando deploy com heroku",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "node index.js"
+  },
+  "author": "LenoMota",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
